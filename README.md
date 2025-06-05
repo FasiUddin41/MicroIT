@@ -60,7 +60,7 @@ To run these projects, you'll need Python installed on your system. These script
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/FasiUddin41/MicroIT.git](https://github.com/FasiUddin41/MicroIT.git)
+    git clone https://github.com/FasiUddin41/MicroIT.git
     ```
 
 2.  **Navigate to the repository directory:**
@@ -91,3 +91,4 @@ To run these projects, you'll need Python installed on your system. These script
 ## Contribution
 
 This repository is primarily for my internship project submissions. However, if you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
+
