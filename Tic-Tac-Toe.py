@@ -1,6 +1,6 @@
 # Script: tic-tac-toe.py
 # Description: Tic-Tac-Toe Game
-# Author: Mohammed Abdul Raqeeb
+# Author: Mohammed Fasi Uddin Arsalaan
 # Date: 30/06/2024
 
 try:
